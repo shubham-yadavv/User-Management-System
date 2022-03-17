@@ -1,0 +1,19 @@
+{
+  "name": "todo-crud",
+  "version": "1.0.0",
+  "description": "todo app using CRUD operations.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-yadavv/Todo-CRUD.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-yadavv/Todo-CRUD/issues"
+  },
+  "homepage": "https://github.com/shubham-yadavv/Todo-CRUD#readme"
+}
